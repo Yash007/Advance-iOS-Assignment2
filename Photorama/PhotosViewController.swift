@@ -36,7 +36,6 @@ class PhotosViewController: UIViewController {
             self.collectionView.reloadSections(IndexSet(integer: 0))
         }
         
-        
     }
     
     

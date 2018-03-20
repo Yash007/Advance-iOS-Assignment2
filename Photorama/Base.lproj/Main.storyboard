@@ -53,8 +53,8 @@
                                             <constraint firstItem="ELH-Bd-QaY" firstAttribute="centerY" secondItem="fpX-2l-i2z" secondAttribute="centerY" id="wMG-TL-7fI"/>
                                         </constraints>
                                         <connections>
-                                            <outlet property="imageView" destination="ly7-a0-Whv" id="a4a-iU-OQo"/>
-                                            <outlet property="spinner" destination="wMG-TL-7fI" id="5Rr-RD-2gO"/>
+                                            <outlet property="imageView" destination="ly7-a0-Whv" id="JfC-sK-0D4"/>
+                                            <outlet property="spinner" destination="ELH-Bd-QaY" id="1G9-cU-f7o"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>

@@ -70,11 +70,11 @@
 				D8251CBF205749A7008E0178 /* PhotoStore.swift */,
 				D8251CC120574CED008E0178 /* Photo.swift */,
 				4114539220607B4500CD5C01 /* PhotoDataSource.swift */,
+				4114539420607F1E00CD5C01 /* PhotoCollectionViewCell.swift */,
 				D8251CAD205741B5008E0178 /* Main.storyboard */,
 				D8251CB0205741B5008E0178 /* Assets.xcassets */,
 				D8251CB2205741B5008E0178 /* LaunchScreen.storyboard */,
 				D8251CB5205741B5008E0178 /* Info.plist */,
-				4114539420607F1E00CD5C01 /* PhotoCollectionViewCell.swift */,
 			);
 			path = Photorama;
 			sourceTree = "<group>";
